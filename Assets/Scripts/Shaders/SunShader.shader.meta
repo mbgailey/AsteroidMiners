@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: be2116c6016ca2f44a6dc409fbb5ba65
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {fileID: 2800000, guid: 411478d4fc5ccae43885b7d850a1f9fa, type: 3}
+  - _FireTex1: {fileID: 2800000, guid: 959e96da0d729c94081488d8d26fbca0, type: 3}
+  - _FireTex2: {fileID: 2800000, guid: 42c09c77e2738ea4db129503a08b9af8, type: 3}
+  - _FlowTex: {fileID: 2800000, guid: 95d00c4c23adcc94cb470d205ee7d517, type: 3}
+  - _WaveTex: {fileID: 2800000, guid: 59181f0d76c739848b901d6c8ccb8eea, type: 3}
+  userData: 
