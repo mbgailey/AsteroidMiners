@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class SetSortID : MonoBehaviour {
+    //Sets the sort ID for a renderer
     public int sortID;
 
 	// Use this for initialization
